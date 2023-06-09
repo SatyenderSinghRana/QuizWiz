@@ -1,0 +1,4 @@
+
+t	java:S116"ZRename this field "button_new_quiz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Όͺχεÿÿÿÿÿ
+y
+java:S1450"^Remove the "button_new_quiz" field and declare it as a local variable in the relevant methods.(Όͺχεÿÿÿÿÿ
